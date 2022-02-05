@@ -9,7 +9,7 @@
 ### [**ТЕМА 03**](/1_LEC/Modulo_3/Lec_Mod_3.md) -> *Асиметричні криптосистеми*
 ### [**ТЕМА 04**](/1_LEC/Modulo_4/Lec_Mod_4.md) -> *Хешування*
 
-## 2. [**ПРАКТИЧНІ ЗАНЯТТЯ**](/2_LAB/Prackt_Works_Common.md)
+## 2. [**ПРАКТИЧНІ ЗАНЯТТЯ**](/2_PRACKT/Prackt_Work_.md)
 
 ## 3. [**КУРСОВА РОБОТА**](/3_Curs_Work/Curs_Work_Descript.md)
 
